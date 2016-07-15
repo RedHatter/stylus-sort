@@ -1,6 +1,6 @@
 {
   "name": "stylus-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sorts stylus rules in-place based on a predefined order.",
   "main": "index.js",
   "scripts": {
