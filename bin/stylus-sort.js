@@ -4,7 +4,7 @@ const Sort = require('../lib')
 const cli = require('commander')
 
 cli
-  .version('1.0.2')
+  .version('1.0.3')
   .option('-c, --config [file]', 'configuration to sort by')
   .arguments('<path...>')
   .action(path => {
