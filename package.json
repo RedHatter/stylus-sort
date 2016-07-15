@@ -1,0 +1,23 @@
+{
+  "name": "stylus-sort",
+  "version": "1.0.0",
+  "description": "Sorts stylus rules in-place based on a predefined order.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylus"
+  ],
+  "author": "Timothy Johnson",
+  "license": "GPL-3.0",
+  "bin": {
+    "stylus-sort": "bin/stylus-sort.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
